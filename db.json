@@ -1,7 +1,9 @@
 {
     "users":[
+{
         "id": 1,
         "nome":"Kauê Murakami",
         "email":"kauetmurakami@gmail.com"
+}
     ],
 }
